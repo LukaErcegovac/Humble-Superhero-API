@@ -23,7 +23,7 @@ The frontend application, located in the superhero_api_frontend directory, provi
 Components:
 - UseSuperhero: Manages state and side effects for fetching and creating superheroes.
 - Superhero: Displays a form to add a superhero and a list of all superheroes.
-- 
+  
 Technologies:
 - React: For building the user interface.
 - TypeScript: For logic.
